@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-<h4>2024 January to June (Currently)</h4>
+<h4>2024 January to June</h4>
 
 <div>
 <img src="assets/python-original.svg" width="30"/>
