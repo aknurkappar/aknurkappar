@@ -6,9 +6,9 @@
 <h4>2024 July to December</h4>
 
 <div>
-<img src="assets/python-original.svg" width="30"/>
-<img src="assets/flutterio-icon.svg" width="30"/>
-<img src="assets/firebase-icon.svg" width="30"/>
+<img src="assets/django.svg" width="30"/>
+<img src="assets/go.svg" width="30"/>
+<img src="assets/nuxt.svg" width="30"/>
 <img src="assets/figma-icon.svg" width="30"/>
 </div>
 
