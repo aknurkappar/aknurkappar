@@ -18,7 +18,7 @@
     <li>Advanced Django (message broker and background tasks)</li>
     <li>Go</li>
     <li>Nuxt.js (Vue3)</li>
-    <li>more working with Figma</li>
+    <li>more working with Figma </li>
     </ul>
 </td>
 </tr>
