@@ -6,8 +6,8 @@
 <h4>2025 January to April</h4>
 
 <div>
-<img src="assets/vue.png" width="30"/>
 <img src="assets/nuxt.svg" width="30"/>
+<img src="assets/vue.png" width="30"/>
 </div>
 
 </td>
