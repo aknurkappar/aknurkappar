@@ -3,6 +3,28 @@
 <table>
 <tr>
 <td>
+<h4>2024 July to December</h4>
+
+<div>
+<img src="assets/python-original.svg" width="30"/>
+<img src="assets/flutterio-icon.svg" width="30"/>
+<img src="assets/firebase-icon.svg" width="30"/>
+<img src="assets/figma-icon.svg" width="30"/>
+</div>
+
+</td>
+<td>
+    <ul>
+    <li>Advanced Django (message broker and background tasks)</li>
+    <li>Go</li>
+    <li>Nuxt.js (Vue3)</li>
+    <li>more working with Figma</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
 <h4>2024 January to June</h4>
 
 <div>
