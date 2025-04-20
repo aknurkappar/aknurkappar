@@ -3,13 +3,31 @@
 <table>
 <tr>
 <td>
+<h4>2025 January to April</h4>
+
+<div>
+<img src="assets/vue.png" width="30"/>
+<img src="assets/nuxt.svg" width="30"/>
+</div>
+
+</td>
+<td>
+    <ul>
+        <li>Nuxt.js (Vue3)</li>
+        <li>Vue.js (Vue2)</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
 <h4>2024 July to December</h4>
 
 <div>
-<img src="assets/django.png" width="30"/>
-<img src="assets/go.png" width="30"/>
+<img src="assets/django.png" width="20"/>
+<img src="assets/go.png" width="50"/>
+<img src="assets/vue.png" width="30"/>
 <img src="assets/nuxt.svg" width="30"/>
-<img src="assets/figma-icon.svg" width="30"/>
 </div>
 
 </td>
@@ -18,7 +36,7 @@
     <li>Advanced Django (message broker and background tasks)</li>
     <li>Go</li>
     <li>Nuxt.js (Vue3)</li>
-    <li>more working with Figma </li>
+    <li>Vue.js (Vue2)</li>
     </ul>
 </td>
 </tr>
